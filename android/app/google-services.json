@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "115436920855",
+    "project_id": "chrain-2cfd9",
+    "storage_bucket": "chrain-2cfd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115436920855:android:5af35a6f9b5f07a6683c52",
+        "android_client_info": {
+          "package_name": "com.example.sp_ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115436920855-1kpn9sk0p15ma8bjd9fmmgre0gp6stpi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGvKgHR4qHuTe_oekim3rLUC0T32Mse0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115436920855-1kpn9sk0p15ma8bjd9fmmgre0gp6stpi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "115436920855-cdjvolb5btcev7qrpa7vfi79v17od94b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chrain.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
